@@ -8,8 +8,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@tokenbound/sdk": "workspace:^",
-    "@tokenbound/sdk-ethers": "workspace:^",
+    "@tokenbound/sdk": "latest",
+    "@tokenbound/sdk-ethers": "latest",
     "buffer": "^6.0.3",
     "connectkit": "^1.2.2",
     "ethers": "^5.7.2",
